@@ -1,5 +1,5 @@
 Ésta es la configuración que genera, mediante [`nikola`](https://getnikola.com/) y otras dependencias, los sitios
-https://planeta.python.org.ar/ y https://planeta.python.org.ar/python/.
+http://planeta.python.org.ar/ y http://planeta.python.org.ar/python/.
 
 Agregar tu propio blog
 ======================
