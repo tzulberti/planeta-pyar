@@ -99,7 +99,7 @@ INPUT_FORMAT = 'rest'
 
 # Data about this site
 BLOG_TITLE = u"Planeta PyAr (Sólo Python)"
-BLOG_URL = "http://planeta.python.org.ar"
+SITE_URL = "http://planeta.python.org.ar"
 BLOG_AUTHOR = "PyAR"
 BLOG_EMAIL = "ralsina@netmanagers.com.ar"
 BLOG_DESCRIPTION = u"Colección de blogs de PyAr."
@@ -133,7 +133,7 @@ DISQUS_FORUM = ""
 RSS_LINK = """
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/PlanetaPyarpython">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/PlanetaPyar">
-"""   
+"""
 
 
 # A search form to search this site, for the sidebar. You can use a google
@@ -165,6 +165,7 @@ ENABLED_EXTRAS = ['planetoid']
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
+"""
 GLOBAL_CONTEXT = {
     'analytics': ANALYTICS,
     'blog_title': BLOG_TITLE,
@@ -186,9 +187,8 @@ GLOBAL_CONTEXT = {
             )
         }
     }
+"""
 
 # You can also replace the provided tasks with your own by redefining them
 # below this point. For a list of current tasks, run "doit list", and for
 # help on their syntax, refer to the doit handbook at http://python-doit.sf.net
-
-

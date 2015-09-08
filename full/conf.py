@@ -98,7 +98,8 @@ INPUT_FORMAT = 'rest'
 
 # Data about this site
 BLOG_TITLE = "Planeta PyAr"
-BLOG_URL = "http://planeta.python.org.ar"
+# BLOG_URL = "http://planeta.python.org.ar"
+SITE_URL = "http://planeta.python.org.ar"
 BLOG_AUTHOR = "PyAr"
 BLOG_EMAIL = "ralsina@netmanagers.com.ar"
 BLOG_DESCRIPTION = u"Colección de blogs de PyAr."
@@ -132,7 +133,7 @@ DISQUS_FORUM = ""
 RSS_LINK = """
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/PlanetaPyar">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/PlanetaPyarpython">
-"""   
+"""
 
 # A search form to search this site, for the sidebar. You can use a google
 # custom search (http://www.google.com/cse/)
@@ -161,6 +162,7 @@ ENABLED_EXTRAS = ['planetoid']
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
+"""
 GLOBAL_CONTEXT = {
     'analytics': ANALYTICS,
     'blog_title': BLOG_TITLE,
@@ -182,6 +184,4 @@ GLOBAL_CONTEXT = {
             )
         }
     }
-
-
-
+"""
