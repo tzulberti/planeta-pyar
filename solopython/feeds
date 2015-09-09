@@ -2,13 +2,13 @@
 # Feeds solo python
 ###################
 
-http://blog.protocultura.net/tagged/PyAr/rssj
+http://blog.protocultura.net/tagged/PyAr/rss
 alecu
 
 # Anthony Lenton
 #http://anthony.lenton.com.ar/?feed=rss2&cat=4&language=es
 #Anthony Lenton
-    
+
 # Rivendel
 # No tiene RSS solo python
 
@@ -19,18 +19,18 @@ Facundo Batista
 # Gabriel Patiño
 http://gepatino.blogspot.com/feeds/posts/default/-/Python
 Gabriel Patiño
-    
+
 # Guillermo Heizenreder
 http://gheize.wordpress.com/category/programacion/python/feed/
 Guillermo Heizenreder
-    
+
 # John Lenton
 # No tiene RSS solo python
 
 # Juanjo Conti
 http://www.juanjoconti.com/etiquetas/python.xml
 Juanjo Conti
-    
+
 # Leito Monk
 # No tiene RSS solo python
 
@@ -49,7 +49,7 @@ Mariano Draghi (cHagHi)
 # Marcos Dione
 http://www.grulic.org.ar/~mdione/glob/tags/python/index.atom
 Marcos Dione
-    
+
 # Nico Cesar
 # No tiene RSS solo python
 
@@ -59,7 +59,7 @@ http://pyar-olpc.blogspot.com/feeds/posts/default
 # Roberto Alsina
 http://ralsina.me/tr/es/categories/python.xml
 Roberto Alsina
-    
+
 # Roberto Allende
 # No tiene RSS solo python
 
@@ -70,11 +70,11 @@ Roberto Alsina
 # Mariano Guerra
 http://www.marianoguerra.org/categories/python.xml
 Mariano Guerra
-    
+
 # Ramiro Morales
 http://rmorales.com.ar/blog/category/python/feed/
 Ramiro Morales
-    
+
 # Nicolas Miyasato
 http://mypythonnotes.wordpress.com/feed/
 Nicolás Miyasato
