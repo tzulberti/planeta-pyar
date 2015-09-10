@@ -4,9 +4,22 @@ http://planeta.python.org.ar/ y http://planeta.python.org.ar/python/.
 Agregar tu propio blog
 ======================
 
-Hacenos un Pull Request modificando el archivo `full/feeds` y eventualemnte también `solopython/feeds`. El formato es
-muy sencillo: una línea en blanco, una línea con el URL del archivo `RSS` o `Atom`, y una línea con el nombre o nick
-con el que va a aparecer tus posts.
+Hacenos un Pull Request modificando el archivo `full/feeds` y eventualemnte también `solopython/feeds`. El primero es
+para que agregues el feed de todo tu blob y el segundo para el feed de sólo la sección dedicada a Python, si llegaras
+a tenerla. ¡Si no la tienes, no te agregues a ese archivo! 
+
+El formato es muy sencillo: una línea en blanco, una línea con el URL del archivo `RSS` o `Atom`, y una línea con el
+nombre o nick con el que van a aparecer tus posts. Si agregas un nick, es mejor si además agregas tu nombre en un 
+comentario antes.
+
+La forma más fácil de hacerlo es simplemente usar la interfaz misma de GitHub: 
+
+https://github.com/PyAr/planeta-pyar/edit/master/full/feeds
+
+https://github.com/PyAr/planeta-pyar/edit/master/solopython/feeds
+
+Cuando envíes los cambios, asegúrate de seleccionar «Create a new branch for this commit and start a pull request»; de
+esa forma se van a autogenerar un PR por archivo.
 
 Instalación
 ===========
